@@ -2,5 +2,5 @@
 
 On premises portal for applications hosted on azure
 
-# Changelog
+## Changelog
 - v1.3 - Security Changes
